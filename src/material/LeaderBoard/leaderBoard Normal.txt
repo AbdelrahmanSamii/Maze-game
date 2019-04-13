@@ -1,0 +1,6 @@
+mazen
+500
+belal
+700
+ahmed
+1000
